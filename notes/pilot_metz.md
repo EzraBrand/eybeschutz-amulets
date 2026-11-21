@@ -48,6 +48,12 @@
 
 ## Cipher result (reading 2, from the notarized MS)
 
+> **Priority note (added 21-Nov-2026):** Falk stated the atbash key in print
+> in 1755 (*Ḥarvot Tzurim*). He decoded the opening of amulet 4 (Vienna copy)
+> as "בשם ה' אלקי ישראל אלקי משיחו", and said that all the amulets follow this
+> one style. See `notes/research.md` §6. The key is his. The counts, the
+> control and the adjacency are ours.
+
 Reading 1 came from the low-resolution 1752 print plate, and it had errors of
 mine (for example `עבטחף` for MS `מבמחף`, and `בכתי` for MS `בבתי`). Reading 2
 follows the notarized manuscript (Pl. 4) at native resolution. Each amulet

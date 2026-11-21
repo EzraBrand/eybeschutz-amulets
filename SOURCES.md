@@ -32,6 +32,8 @@ Already in another project: Emden, *Megillat Sefer* (Warsaw 1897, HB 37017), see
 
 ## Primary — missing
 
+- Falk, *Ḥarvot Tzurim* (Frankfurt 1755). Known in one copy, in a private collection (Leiman's 2017 lecture). Not accessible.
+
 | Work | Link | Why it matters |
 |---|---|---|
 | *Le-Ma'an Da'at* (Amsterdam 1753), Hagiz and others | [Kedem auction page](https://www.kedem-auctions.com/he/node/65494) | No scan known |
@@ -58,13 +60,13 @@ Already in another project: Emden, *Megillat Sefer* (Warsaw 1897, HB 37017), see
 | `leiman_71_sefarim-hahashudim-be-shabtaut.pdf` | Leiman, "ספרים החשודים בשבתאות: רשימתו של הגאון יעב״ץ" | **none** (image only) | 10 pp. Needs OCR. |
 | `leiman_126_eibeschuetz-jewish-christian-sect.pdf` | Leiman, "Rabbi Jonathan Eibeschuetz and the Alleged Jewish-Christian Sect in Eighteenth Century Amsterdam" | good | 27 pp. |
 | `notes/extracted/leiman_140_falk-alleged-blindness_seforimblog-2019.txt` | Leiman, "The Alleged Blindness of R. Jacob Joshua Falk", Seforim Blog (Nov-2019) | text | Saved page text (web article, not a PDF). |
+| `notes/extracted/elior_facebook_wcjs-2017-lecture-summaries.txt` | R. Elior, Facebook post (30-Oct-2017) summarizing WCJS 2017 lectures by Maoz Kahana and S. Z. Leiman | text | Leiman on Falk's *Ḥarvot Tzurim* (1755): Falk decodes amulet 4 by atbash. Pasted by the owner; not in git. |
 
 ## Secondary — missing (in priority order)
 
 1. G. Scholem, "על קמיע אחד של ר' יהונתן אייבשיץ ופירושו עליו", *Tarbiz* 13.4 (1942): 226–244 — [JSTOR](https://www.jstor.org/stable/23585041). A close reading of one amulet and Eybeschütz's commentary.
 3. M. A. Perlmuter, *R. Yehonatan Eibeschütz ve-Yaḥaso el ha-Shabta'ut* (Jerusalem 1947). The fullest analysis. No online copy found yet.
 6. P. Maciejko (ed.), *Sabbatian Heresy* (2017), section "The Eibeschütz Controversy"; and his critical edition of *Va-Avo ha-Yom el ha-Ayin*.
-7. Summaries of lectures by Maoz Kahana and S. Z. Leiman, World Congress of Jewish Studies, Aug-2017 (Rachel Elior, [Facebook post](https://www.facebook.com/HebrwUJewishthought/posts/922836904536711/)). Facebook needs a login; copy the text by hand if it matters.
 8. Full list of Leiman's papers: <https://www.leimanlibrary.com/texts/> (the site allows copying with attribution).
 
 ## Access notes

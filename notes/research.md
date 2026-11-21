@@ -92,3 +92,32 @@ PDF pages with ≥3 hits for קמיע/קמע (from `scripts/find_terms.py`):
 
 The amulets themselves are often drawn as diagrams (for example a
 Star of David), so the OCR may miss them. Read the page images.
+
+## 6. Falk, *Ḥarvot Tzurim* (Frankfurt, 22 Elul 5515 = 1755)
+
+Source: Rachel Elior's summary (Facebook, 30-Oct-2017) of S. Z. Leiman's
+lecture at the World Congress of Jewish Studies, Aug-2017
+(`notes/extracted/elior_facebook_wcjs-2017-lecture-summaries.txt`, not in git).
+
+- A very rare print, not in the catalogues. Elior says Eybeschütz's supporters
+  destroyed the edition. A copy sold at auction (about $30,000, per Elior) to
+  a private collector, who let Leiman see it.
+- It is R. Jacob Joshua Falk's attack on *Luḥot Edut*, addressed to the
+  leaders of the Three Communities, and printed half a year before his death.
+- It quotes the amulets "sent from Vienna": `בשם יצוה אכהי יבראך אכהם מחבחף`.
+  This is the opening of **Metz amulet 4**; the MS has `מבמחף`. Falk decodes it
+  as **"בשם ה' אלקי ישראל אלקי משיחו"**. He says that this formula is found in
+  all the amulets, and that "they all follow one style, by letter exchange in
+  א"ת ב"ש".
+- Leiman (per Elior) also noted that Falk saw the verse "ילד יולד לנו"
+  (Isaiah 9:5) in an amulet, and that he gave it a Sabbatean meaning.
+
+**Consequence for this project:** the atbash key itself was stated in print in
+1755, by the leader of the campaign. Our partial-atbash finding repeats Falk.
+What is new here is (a) the count of שבתי and משיחו over the whole Metz
+corpus under one key, (b) the comparison with real Hebrew (control test 1),
+and (c) the adjacency result.
+
+Also in Elior's post: Maoz Kahana's discovery (NLI manuscript) of
+Eybeschütz's *Sefer Merav*, a play on the new sciences. It is context, not
+relevant to the amulet test.
