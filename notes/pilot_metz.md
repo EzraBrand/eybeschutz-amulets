@@ -104,6 +104,31 @@ searches substrings inside words:
    breaks `בבת…` → `שבת…`. Eybeschütz's defence (that the copyist confused
    ב/כ) points at exactly this letter.
 
+
+## Witness check of the ב/כ letters (21-Nov-2026)
+
+Every שבתי hit depends on reading ב, not כ, and handwritten ב/כ are easy to
+confuse. So each hit was checked against the typeset witnesses:
+
+- **Kraken OCR of the Lemberg 1877 reset type** (an objective reader, not my
+  eye) reads ב in all seven inner-text hits and in seal 4 (`בבתי`) and seal 5
+  (`בבתמים`). Amulets 1–2 are on PDF p. 5, and amulets 4, 5, 3 on PDF
+  pp. 15–16. The 1877 text follows the 1752 print, which Leiman found
+  identical to the notarized sheet except for three letters.
+- **Eybeschütz's own printing** of the Vienna copy of amulet 4 (*Luḥot Edut*
+  1755, leaf 60a) reads **`ומביחף בכתמי הכמי`**, with כ in exactly the two
+  letters that make "ומשיחו שבתי צבי". With the same change, his drawing of
+  seal 5 has `בבהמים` for `בבתמים`. Leiman calls the 60a differences
+  "interesting but negligible". For this test they are the whole point:
+  where Eybeschütz printed the text himself, the Shabbetai letters are the
+  ones that differ.
+- My reading 1 (from the low-resolution print plate) had כ in a2 l. 3 and
+  a4 l. 7. Those were my errors; the 1877 OCR confirms ב.
+
+So the counts stand: S = 7, M = 4, A = 3 (Sefat Emet / notarized tradition).
+On the *Luḥot Edut* text of amulet 4, the a4 l. 7 pair (and its צבי) would
+not count.
+
 ## Next steps
 
 1. **Second reading** of all five amulets, from the MS plate, and a
