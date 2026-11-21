@@ -64,8 +64,8 @@ are ב/ש, כ/ל, י/מ and ו/פ(ף). Under this one key:
 - `בבתי` / `בבתמ` = **שבתי** (7×, in **all four** inner texts):
   `קבבתיקא`, `בבתיק` (a1); `זבבתי` (a2); `בבתיל`, `בבתינ` (a3); `הבבתמל`,
   `בבתמי` (a4). The seals add `בבתי` (seal 4) and `בבתמים` (seal 5).
-- **Adjacency.** In three of the four amulets, משיחו comes directly before a
-  שבתי string:
+- **Adjacency.** Three times, in two amulets (a2, a4), משיחו comes directly
+  before a שבתי string:
   - a2 l. 3 `אכהם מבמחף זבבתי` → "אלהים משיחו [ז]שבתי"
   - a4 l. 1–2 `אכהם מבמחף / הבבתמל` → "אלהים משיחו / השבתי…"
   - a4 l. 7 `ומביחף בבתמי הבמי` → **"ומשיחו שבתי צבי"** (Liebes's example;
@@ -92,7 +92,7 @@ searches substrings inside words:
 3. The random-letter null is still too weak, because Hebrew has natural `בבת`
    sequences (בבתי = "in my houses"). The real test is a control on real
    Hebrew amulet text (see Next steps). The **adjacency** of משיחו + שבתי
-   (3 of 4 amulets) will be the hardest result to explain away.
+   (3 times, in 2 amulets) will be the hardest result to explain away.
 4. Variants: Leiman's MS `קבבתי` vs print `קבכתי` (a3 l. 3), and Eybeschütz's
    own `בבהמים` vs MS `בבתמים` (seal 5). Each turns on the letter that makes or
    breaks `בבת…` → `שבת…`. Eybeschütz's defence (that the copyist confused

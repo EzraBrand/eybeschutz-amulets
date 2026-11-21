@@ -27,8 +27,8 @@ suspects, as often as in the Eybeschütz amulets?
   [notes/pilot_metz.md](notes/pilot_metz.md). Second reading done from the
   notarized manuscript. Main finding: one consistent "partial atbash" key turns
   the texts into connected Hebrew (אלהי ישראל). The same key gives משיחו 4 times
-  and שבתי 7 times (in all four inner texts), and in three amulets משיחו comes
-  directly before שבתי ("ומשיחו שבתי צבי", amulet 4). There is no real-Hebrew
+  and שבתי 7 times (in all four inner texts), and משיחו comes directly before
+  שבתי three times, in two amulets ("ומשיחו שבתי צבי", amulet 4). There is no real-Hebrew
   control yet.
 - The HebrewBooks *Sefat Emet* is the Lemberg 1877 reprint. Its pp. 5–25 hold
   many more Eybeschütz amulets with their decodings: the next corpus.
