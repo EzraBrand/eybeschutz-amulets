@@ -83,3 +83,42 @@ and on control texts.
 - Will you try to get Perlmuter (1947) and Scholem's *Tarbiz* article
   (JSTOR)? Scholem's close reading of one amulet is the best model for
   phase 2.
+
+## Pre-registration: control test 1 (written 21-Nov-2026, before the run)
+
+**Question.** Under the same partial-atbash key (each letter kept or replaced
+by its atbash pair), how often does ordinary Hebrew text produce what the
+Metz amulets produce?
+
+**Why plain text works as the control.** Partial atbash is its own inverse
+letter by letter. Encrypting a plain text with any partial atbash and then
+searching the ciphertext with partial atbash gives the same matches as
+searching the plain text. So no simulated encryption step is needed: we search
+real Hebrew directly.
+
+**Units.** Words = maximal runs of Hebrew letters; nikud, cantillation,
+punctuation and HTML removed; final letters normalized. A word "is a hit" for
+target T if any substring of it matches T under partial atbash.
+
+**Statistics (fixed now):**
+- S = number of words that hit שבתי
+- M = number of words that hit משיחו
+- A = number of adjacent word pairs (i, i+1) where word i hits משיחו and word
+  i+1 hits שבתי
+
+**Metz values (reading 2):** 257 words; S = 7, M = 4, A = 3.
+
+**Controls (local copies from other projects, not copied into this repo):**
+1. Hebrew Bible, consonantal text (tanach.us via Sefaria, public domain)
+2. Babylonian Talmud, Aramaic/Hebrew (Sefaria, William Davidson ed.)
+3. Emden, *Megillat Sefer* (Kahana 1896, my OCR'd and checked text)
+4. *Me'or Einayim* (my OCR'd text, Imrei Binah chapters)
+
+**Procedure.** For each control: the rates per 1,000 words, and 20,000 random
+contiguous 257-word windows (seed 1751). p_S = share of windows with S ≥ 7;
+p_M = share with M ≥ 4; p_A = share with A ≥ 3; p_joint = share with all
+three. A result is "unusual" if p < 0.01 in every control.
+
+**Known weakness, stated in advance.** None of the controls is amulet text.
+Amulets repeat formulae (אלהי ישראל), and the decoded Metz texts are
+liturgical. A control from real amulet manuals is still needed (test 2).
