@@ -28,8 +28,11 @@ suspects, as often as in the Eybeschütz amulets?
   notarized manuscript. Main finding: one consistent "partial atbash" key turns
   the texts into connected Hebrew (אלהי ישראל). The same key gives משיחו 4 times
   and שבתי 7 times (in all four inner texts), and משיחו comes directly before
-  שבתי three times, in two amulets ("ומשיחו שבתי צבי", amulet 4). There is no real-Hebrew
-  control yet.
+  שבתי three times, in two amulets ("ומשיחו שבתי צבי", amulet 4). **Control test 1 (pre-registered,
+  real Hebrew: Bible, Bavli, Emden, *Me'or Einayim*, 1.13M words):** the Metz
+  rates are 25–100× higher, and no control has a single משיחו+שבתי adjacency.
+  See [notes/control_test_1.md](notes/control_test_1.md). Next: a control from
+  real amulet texts.
 - The HebrewBooks *Sefat Emet* is the Lemberg 1877 reprint. Its pp. 5–25 hold
   many more Eybeschütz amulets with their decodings: the next corpus.
 
@@ -43,6 +46,7 @@ suspects, as often as in the Eybeschütz amulets?
 | `notes/extracted/` | Plain-text extracts of born-digital papers |
 | `corpus/metz_amulets.json` | Five Metz amulets: inner texts, seals, variants (draft) |
 | `notes/pilot_metz.md` | Pilot method, results, next steps |
+| `scripts/control_test.py` | Pre-registered real-Hebrew control (test 1) |
 | `scripts/cipher_freedom.py` | Chance rates of decoding targets under atbash/albam regimes |
 | `scripts/crop.py`, `scripts/contact_sheet.py` | Plate crops and page contact sheets for reading |
 | `work/metz/` | Plate images and crops, rebuilt from the PDFs (not in git) |

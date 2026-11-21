@@ -21,6 +21,7 @@ page before you cite a page.
 | `emden_torat-ha-kenaot_hb44252.pdf` | Emden, *Torat ha-Kenaot* | first printed Altona 1752 (HB 44252) | 152 | poor | History of Sabbateanism; amulets pp. ~120–130. |
 | `emden_sefer-shimush_hb45056.pdf` | Emden, *Sefer Shimush* | Amsterdam 1758 (HB 45056) | 178 | poor | Few amulet hits in OCR. |
 | `emden_beit-yehonatan-ha-sofer_hb24773.pdf` | Emden, *Beit Yehonatan ha-Sofer* | Altona 1763 (HB 24773) | 38 | fair | |
+| `emden_va-yakem-edut-be-yaakov_altona-1756_nli990011033950205171.pdf` | Emden, *Va-Yakem Edut be-Yaakov* | Altona 1756, NLI 990011033950205171 | 174 | none (image only) | Hilman's letter of 21-Feb-1751 is at pp. 31a-b (Leiman n. 18). Downloaded by hand from NLI 21-Nov-2026. |
 
 Already in another project: Emden, *Megillat Sefer* (Warsaw 1897, HB 37017), see
 `C:\Users\ezrab\Ezra Brandt\Claude\emden-megillat-sefer`.
@@ -29,7 +30,6 @@ Already in another project: Emden, *Megillat Sefer* (Warsaw 1897, HB 37017), see
 
 | Work | Link | Why it matters |
 |---|---|---|
-| Emden, *Va-Yakem Edut be-Yaakov* (Altona 1756) | [NLI](http://aleph.nli.org.il/nnl/dig/books/bk001103395.html) | Testimonies; may hold more amulet texts |
 | Emden, *Petaḥ Einayim* (Altona 1757) | [NLI](http://aleph.nli.org.il/nnl/dig/books/bk001218601.html) | Last appendix to *Shevirat* |
 | Emden, *Sefer Hitavkut* (Altona 1762) | [NLI](http://aleph.nli.org.il/nnl/dig/books/bk001273092.html) | Large documentary collection |
 | *Aspaklaria ha-Me'ira* (1753), four rabbinic letters on the amulets | [NLI](http://beta.nli.org.il/he/books/NNL_ALEPH001273090/NLI), [Wikisource text](https://he.wikisource.org/wiki/%D7%90%D7%A1%D7%A4%D7%A7%D7%9C%D7%A8%D7%99%D7%94_%D7%94%D7%9E%D7%90%D7%99%D7%A8%D7%94_%D7%90) | Already transcribed on Wikisource |
