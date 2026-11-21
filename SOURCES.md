@@ -22,6 +22,10 @@ page before you cite a page.
 | `emden_sefer-shimush_hb45056.pdf` | Emden, *Sefer Shimush* | Amsterdam 1758 (HB 45056) | 178 | poor | Few amulet hits in OCR. |
 | `emden_beit-yehonatan-ha-sofer_hb24773.pdf` | Emden, *Beit Yehonatan ha-Sofer* | Altona 1763 (HB 24773) | 38 | fair | |
 | `emden_va-yakem-edut-be-yaakov_altona-1756_nli990011033950205171.pdf` | Emden, *Va-Yakem Edut be-Yaakov* | Altona 1756, NLI 990011033950205171 | 174 | none (image only) | Hilman's letter of 21-Feb-1751 is at pp. 31a-b (Leiman n. 18). Downloaded by hand from NLI 21-Nov-2026. |
+| `emden_petah-einayim_altona-1757_BOUND-WITH-yehi-shemo-le-olam_nli990012186010205171.pdf` | Emden, *Petaḥ Einayim* (last appendix to *Shevirat Luḥot ha-Aven*) | Altona 1757, NLI 990012186010205171 | 84 (PE = PDF pp. 51–83) | none | NLI copy is bound with *Yehi Shemo le-Olam* (Altona), PDF pp. 1–50, an unrelated book. |
+| `emden_sefer-hitavkut_altona-1762_nli990012730920205171.pdf` | Emden, *Sefer Hitavkut* | Altona 1762, NLI 990012730920205171 | 338 | none | Large documentary collection. |
+| `aspaklaria-ha-meira_altona-1753_nli990012730900205171.pdf` | *Aspaklaria ha-Me'ira*: four rabbinic letters on the amulets (Falk and others) | Altona 1753, NLI 990012730900205171 | 6 | none | Text also on Hebrew Wikisource. Reprinted in *Hitavkut*, Lemberg 1877, pp. 91b–96b (Leiman n. 39). |
+| `meirat-einayim_amsterdam-1753_nli990012185840205171.pdf` | *Me'irat Einayim*: documents on the amulets | Amsterdam 1753, NLI 990012185840205171 | 8 | none | Pro-Emden critique of Eybeschütz's (non-)explanation of the Metz amulets (Leiman n. 43). |
 
 Already in another project: Emden, *Megillat Sefer* (Warsaw 1897, HB 37017), see
 `C:\Users\ezrab\Ezra Brandt\Claude\emden-megillat-sefer`.
@@ -30,10 +34,6 @@ Already in another project: Emden, *Megillat Sefer* (Warsaw 1897, HB 37017), see
 
 | Work | Link | Why it matters |
 |---|---|---|
-| Emden, *Petaḥ Einayim* (Altona 1757) | [NLI](http://aleph.nli.org.il/nnl/dig/books/bk001218601.html) | Last appendix to *Shevirat* |
-| Emden, *Sefer Hitavkut* (Altona 1762) | [NLI](http://aleph.nli.org.il/nnl/dig/books/bk001273092.html) | Large documentary collection |
-| *Aspaklaria ha-Me'ira* (1753), four rabbinic letters on the amulets | [NLI](http://beta.nli.org.il/he/books/NNL_ALEPH001273090/NLI), [Wikisource text](https://he.wikisource.org/wiki/%D7%90%D7%A1%D7%A4%D7%A7%D7%9C%D7%A8%D7%99%D7%94_%D7%94%D7%9E%D7%90%D7%99%D7%A8%D7%94_%D7%90) | Already transcribed on Wikisource |
-| *Me'irat Einayim* (Amsterdam 1753), documents on the amulets | [NLI](http://beta.nli.org.il/he/books/NNL_ALEPH001218584/NLI) | |
 | *Le-Ma'an Da'at* (Amsterdam 1753), Hagiz and others | [Kedem auction page](https://www.kedem-auctions.com/he/node/65494) | No scan known |
 
 ## Secondary — have
