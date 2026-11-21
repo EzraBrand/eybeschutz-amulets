@@ -48,25 +48,24 @@ Already in another project: Emden, *Megillat Sefer* (Warsaw 1897, HB 37017), see
 | `oron_gahalei-esh_mehkerei-yerushalayim-16-17.pdf` | M. Oron, "ספר 'גחלי אש'", *Meḥkerei Yerushalayim* 16–17 (2001) | **broken** (legacy Hebrew font encoding) | Needs a font-map fix or OCR |
 | `leiman-schwarzfuchs_95_amulets-from-metz_REJ-2006.pdf` | Leiman & Schwarzfuchs, "New Evidence on the Emden-Eibeschuetz Controversy: The Amulets from Metz", *REJ* 165 (2006): 229–249 | good; extract in `notes/extracted/` | Plates: Pl. 4 = notarized sheet (PDF p. 20); 1752 fold-out (PDF p. 21). The pilot corpus. |
 | `greenwald_ha-rav-yehonatan-eybeschutz_1954_hb20792.pdf` | Y. Y. Greenwald, *Ha-Rav R. Yehonatan Eybeschütz* (New York 1954), HB 20792 | fair | 117 pp. Defence of Eybeschütz against the Sabbatean charge, with his life and the controversy. |
+| `leiman_105_falk.pdf` | Leiman, "When a Rabbi is Accused of Heresy: The Stance of R. Jacob Joshua Falk" | **none** (image only) | 22 pp. Falk led the campaign from Apr-1751 and cited the Metz amulets. Needs OCR. |
+| `leiman_123_landau-letter-of-reconciliation.pdf` | Leiman, "Rabbi Ezekiel Landau: Letter of Reconciliation", *Tradition* 43:4 (2010) | good | 12 pp. |
+| `leiman_124_iggeret-shelomim-landau.pdf` | Leiman, "אגרת שלומים לרבי יחזקאל לנדא" (2011) | good | 15 pp. Hebrew version. |
+| `leiman_85_rabbi-accused-of-heresy-gaon-of-vilna.pdf` | Leiman, "When a Rabbi is Accused of Heresy: The Stance of the Gaon of Vilna" (2001) | good | 13 pp. |
+| `leiman_88_eibeschuetz-and-frankists.pdf` | Leiman, "Rabbi Jonathan Eibeschuetz's Attitude Towards the Frankists" | good | 7 pp. |
+| `leiman_94_eibeschuetz-and-the-porger.pdf` | Leiman, "Rabbi Jonathan Eibeschuetz and the Porger", *Judaic Studies* 4 (2004) | good | 31 pp. |
+| `leiman_97_haskamot-eybeschutz-emden.pdf` | Leiman, "הסכמות רבי יהונתן אייבשיץ ורבי יעקב עמדין" | good | 35 pp. |
+| `leiman_71_sefarim-hahashudim-be-shabtaut.pdf` | Leiman, "ספרים החשודים בשבתאות: רשימתו של הגאון יעב״ץ" | **none** (image only) | 10 pp. Needs OCR. |
+| `leiman_126_eibeschuetz-jewish-christian-sect.pdf` | Leiman, "Rabbi Jonathan Eibeschuetz and the Alleged Jewish-Christian Sect in Eighteenth Century Amsterdam" | good | 27 pp. |
+| `notes/extracted/leiman_140_falk-alleged-blindness_seforimblog-2019.txt` | Leiman, "The Alleged Blindness of R. Jacob Joshua Falk", Seforim Blog (Nov-2019) | text | Saved page text (web article, not a PDF). |
 
 ## Secondary — missing (in priority order)
 
 1. G. Scholem, "על קמיע אחד של ר' יהונתן אייבשיץ ופירושו עליו", *Tarbiz* 13.4 (1942): 226–244 — [JSTOR](https://www.jstor.org/stable/23585041). A close reading of one amulet and Eybeschütz's commentary.
 3. M. A. Perlmuter, *R. Yehonatan Eibeschütz ve-Yaḥaso el ha-Shabta'ut* (Jerusalem 1947). The fullest analysis. No online copy found yet.
-5. S. Z. Leiman, "'Iggeret Shelomim' le-R. Yeḥezkel Landau" (2011) — [PDF](https://leimanlibrary.com/texts_of_publications/120_Iggeret%20Shelomim.pdf).
 6. P. Maciejko (ed.), *Sabbatian Heresy* (2017), section "The Eibeschütz Controversy"; and his critical edition of *Va-Avo ha-Yom el ha-Ayin*.
 7. Summaries of lectures by Maoz Kahana and S. Z. Leiman, World Congress of Jewish Studies, Aug-2017 (Rachel Elior, [Facebook post](https://www.facebook.com/HebrwUJewishthought/posts/922836904536711/)). Facebook needs a login; copy the text by hand if it matters.
-8. Leiman papers on the controversy that are free on leimanlibrary.com and not yet here (the site allows copying with attribution). Numbers are the site's list numbers:
-   - 109. "When a Rabbi is Accused of Heresy: The Stance of R. Jacob Joshua Falk". **High priority:** Falk led the campaign and used the Metz amulets.
-   - 123. "Rabbi Ezekiel Landau: Letter of Reconciliation", *Tradition* 43:4 (2010); 124. "אגרת שלומים לרבי יחזקאל לנדא" (Hebrew)
-   - 85. "When a Rabbi is Accused of Heresy: The Stance of the Gaon of Vilna"
-   - 88. "Rabbi Jonathan Eibeschuetz's Attitude Towards the Frankists"
-   - 94. "Rabbi Jonathan Eibeschuetz and the Porger", *Judaic Studies* 4 (2004)
-   - 97. "הסכמות רבי יהונתן אייבשיץ ורבי יעקב עמדין"
-   - 71. "ספרים החשודים בשבתאות: רשימתו של הגאון יעב״ץ"
-   - 126. "Rabbi Jonathan Eibeschuetz and the Alleged Jewish-Christian Sect in Eighteenth Century Amsterdam"
-   - 140. "The Alleged Blindness of R. Jacob Joshua Falk" (Seforim Blog, 2019, web page)
-   - Full list: <https://www.leimanlibrary.com/texts/>
+8. Full list of Leiman's papers: <https://www.leimanlibrary.com/texts/> (the site allows copying with attribution).
 
 ## Access notes
 
