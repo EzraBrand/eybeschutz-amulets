@@ -1,0 +1,162 @@
+{
+  "_about": {
+    "what": "The five Metz amulets of R. Jonathan Eybeschuetz, notarized 17-Mar-1751 (A.M. Moselle 3 E 4194, piece 502).",
+    "status": "DRAFT, first single reading by Claude, 21-Nov-2026. Needs a second independent reading and collation against the notarized manuscript plate.",
+    "base_witness": "Sefat Emet (1752) fold-out, as reproduced in Leiman & Schwarzfuchs 2006, Pl. 4 (PDF p. 21). Line breaks follow this witness, which copies the notarized sheet line by line.",
+    "other_witnesses": {
+      "MS": "Notarized manuscript sheet, Leiman & Schwarzfuchs 2006 Pl. 4 (PDF p. 20). Handwritten, low resolution. Not yet collated.",
+      "SE1877": "Sefat Emet, Lemberg 1877 reprint (HebrewBooks 35761), PDF p. 5: amulets 1 and 2 in reset type, line breaks NOT original. Used to resolve letters.",
+      "LE1755": "Luhot Edut 1755, pp. 63a-71a: Eybeschuetz's own drawing of amulet 5, and p. 60a: inner text of amulet 4 (from a Vienna copy). Not yet read."
+    },
+    "conventions": "Letters as printed; no decoding. [?] = letter or word uncertain in this reading. Text in 'note' fields is ours.",
+    "owners": "MS adds a line under amulet 1: 'קמיע זה נתן למשה בן אורי פייבש ושם אמו מרים' and under amulet 2: 'קמיע זה נתן לאברהם בן אורי פייבש' (Leiman & Schwarzfuchs p. 231 n. 5-6). In the 1752 plate these lines stand ABOVE amulets 2 and 3, so they read like headings of the next amulet. They are footers of the previous one."
+  },
+  "amulets": [
+    {
+      "id": "metz-1",
+      "owner": "Moshe b. Uri Feibush, mother Miriam",
+      "position_on_sheet": "right column, top",
+      "print_only_heading": "בשם יצוה אכהי יבראך",
+      "inner_text_lines": [
+        "בשם יצוה אכהי יבראל הבוכנ בתפארת עוזף",
+        "יחיד ממציא כך מציאות אהלי מביחף גאונו",
+        "קבבתיקא הביק אשג ברוח פיף ימית גשער",
+        "אכתי כל עולמים נאהלים ברפאים יהורים בר",
+        "ברו עשוים וכליתדות המשכן נחשת ברזל אני",
+        "גוזג ופוקק על כך רוחין נגעי ופגעי בנם תדם וכל ס",
+        "סטרא מסתבת נחשים שלא יזדו בשום נזק וכאב",
+        "וצער ונחש וקסם להאשה נובאא קמיע זף למעט יתגדל",
+        "ויתהדש שם אכהם יבראך ושם הבית בבתיק בעולם",
+        "כל נבובבי לומפאי אחיקיע איל העל שעם שת מעי לקר",
+        "רק שברא בר אר אל מלת כאח שי פחה"
+      ],
+      "line_notes": {
+        "1": "1752 plate is unclear here ('כשמי'?); letters from SE1877.",
+        "2": "1752 plate may read נאילו; SE1877 גאונו.",
+        "6": "Leiman: MS גוזג, 1752 first print גיזג (an error, fixed in the corrigenda)."
+      },
+      "seal": {
+        "shape": "hexagram",
+        "center": ["בשמים", "חותם אהלי", "יבראך"],
+        "top_triangle": ["דעת"],
+        "above_top_left": ["עתיק יומין", "כמים לים"],
+        "outside_top_right": ["אבינו"],
+        "upper_left_triangle": ["עקדת", "יצחק"],
+        "outside_right": ["אברהם"],
+        "lower_right_triangle": ["נצח", "ישראל"],
+        "left_triangle": ["שמאלו"],
+        "outside_left": ["תחת ראשי"],
+        "bottom_triangle": ["צדיק"],
+        "below": ["יבק", "יסוד", "קרע שטן"],
+        "under_seal": ["בעולם מלך", "ולא מהבבבם נשררת כים"]
+      },
+      "seal_notes": "'שמאלו תחת ראשי' = Song 2:6. 1752 plate reads 'בעולם סלך' and 'ולא טהבבבם' (low resolution)."
+    },
+    {
+      "id": "metz-2",
+      "owner": "Avraham b. Uri Feibush",
+      "position_on_sheet": "right column, middle",
+      "inner_text_lines": [
+        "בשם יהפה אכהם יבראך הבוכט בתפארת",
+        "עוזף יחיד מיוחד ביחסד עליון ובשרב הנעלם",
+        "אכהם מבמחף זבכתי הבכי אשר בחברתו",
+        "נרפח לנף וברוח פיף ימית רבע אני גוזג על כך",
+        "רוחיט מזידיט נגעם ופגעם בני אדי שלא יזיקם",
+        "בשום נזד צער פחק בהלה וכובד לבב שבעולם",
+        "לנושת קמיע זף מבצ בן מרמם וצה כשינעו מרל",
+        "אים הקלי מארורירך יצוה או"
+      ],
+      "line_notes": {
+        "0": "SE1877 prints 'עוזף' above line 1 as an insertion.",
+        "2": "SE1877 may read עכיונ for עליון."
+      },
+      "seal": {
+        "shape": "hexagram",
+        "center": ["חותם סכר", "זשב אס ל", "הן ם בם (או) ס"],
+        "top_triangle": ["קרע"],
+        "outside_top_left": ["שטן"],
+        "upper_left_triangle": ["פארא"],
+        "outside_top_right": ["עוזף"],
+        "lower_left_triangle": ["אכהי"],
+        "outside_right": ["יבראך"],
+        "outside_bottom_left": ["נגדיכש"]
+      },
+      "seal_notes": "Leiman: MS center 'הן ם בם [או] ס', 1752 print 'הן בם [או] ס'. Small 'ם/ס' marks above letters = notaries' doubtful-reading marks. SE1877: center line 1 'חותם מבר', upper-left 'תפאוא'."
+    },
+    {
+      "id": "metz-3",
+      "owner": "unknown (no owner line)",
+      "position_on_sheet": "right column, bottom",
+      "inner_text_lines": [
+        "בשם יצוה אכהם יבראל הב זכט בתפארא עוזף",
+        "יהיר ומיוחד בכרב העליון ונעלם לעולם אכהים",
+        "משמחף ק בכחי להבין הקדוש אני גוזר עך כל",
+        "ממונים עך הפחד והבהלה שלא יבהילף ושלת",
+        "יעשו ויגרמי פחק בשום זמנ הן ביום וצנ בלילה",
+        "לנושא קמיע זף אבנצמ כט אורמ פויישב",
+        "למען יתקדש שי אכהי ישרחל אכהם יק בבחין",
+        "ל\"הביג לתמלויי אי פי מעו רחל תום ארה צפס"
+      ],
+      "line_notes": {
+        "3": "Leiman: MS 'קבבתי', 1752 print 'קבכתי'. Our reading 'ק בכחי' agrees with the print."
+      },
+      "seal": {
+        "shape": "hexagram",
+        "center": ["חותם", "אכהמי", "ישראל"],
+        "outside_top_left": ["קרע שטן"],
+        "outside_top_right": ["נגריכש"],
+        "outside_right": ["אמן"],
+        "outside_left": ["אמת"],
+        "lower_left_triangle": ["בכתיל"],
+        "lower_right_triangle": ["הבין"],
+        "below": ["סביד (או) כ"]
+      },
+      "seal_notes": "Center line 2 could be אנהמי; read as אכהמי (pattern כ for ל, as in אכהי). 'סביד (או) כ' carries notaries' doubt marks."
+    },
+    {
+      "id": "metz-4",
+      "owner": "unknown",
+      "position_on_sheet": "left column, top",
+      "inner_text_lines": [
+        "בשם יצוה אכהי יבראך אכהים עבטחף",
+        "הבכחטל הכמיל אשר ברוח פיף ימות",
+        "רשעע אני גוזר עך כך ממונים זריחיט",
+        "ופגעים ונגעים בישן ויחיות המשכן נחשת",
+        "אל ירידו כשום נזק ועיט. הרע לילדה זרה[?]",
+        "נושא דטרע זף למעט יהגיל שמף שך אכהי",
+        "יבראך ומביחף בכתמי הבמי בעולם"
+      ],
+      "line_notes": {
+        "5": "End of line unclear.",
+        "1": "Liebes (lecture p. 9) quotes 'עבדו מביחו' followed by 'שבתי' from an amulet; compare 'עבטחף' (l. 1) and 'מביחף בכתמי' (l. 7) here. Check which amulet he means."
+      },
+      "seal": {
+        "shape": "hexagram (small)",
+        "center": ["חותם"],
+        "outside_top_left": ["יבק"],
+        "outside_top_right": ["נגריכש"],
+        "outside_bottom_right": ["בכתי"],
+        "below": ["הבבתסה"]
+      }
+    },
+    {
+      "id": "metz-5",
+      "owner": "unknown",
+      "position_on_sheet": "left column, below amulet 4",
+      "inner_text_lines": [],
+      "note": "Seal only, no inner text. This is the one amulet that Eybeschuetz explained in full (Luhot Edut pp. 63a-71a, sixteen pages on fourteen words).",
+      "seal": {
+        "shape": "hexagram (large)",
+        "top_triangle": ["בן", "ניכש", "יבק"],
+        "upper_left_triangle": ["לונ"],
+        "upper_right_triangle": [],
+        "center_upper_left": ["יבק"],
+        "center": ["חותם", "מבר", "בבתמים", "לנו"],
+        "lower_left_triangle": ["ידול", "יבק"],
+        "lower_right_triangle": ["הבמן", "ניתן"],
+        "bottom_triangle": ["ילד"]
+      },
+      "seal_notes": "Leiman: Eybeschuetz's own copy differs in two places: top triangle order 'נדיכש / יבק / בן', and center 'בבהמים' for 'בבתמים'. Leiman p. 243: read clockwise from the bottom triangle and you get the first seven words of Isaiah 9:5 (כי ילד ילד לנו בן נתן לנו). Our mapping: ילד (bottom) -> ידול = יולד/ילד (lower left) -> לונ = לנו (upper left) -> בן (top) -> ניתן (lower right) -> לנו (center). Where is 'כי'? Not yet located."
+    }
+  ]
+}

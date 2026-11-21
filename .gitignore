@@ -1,0 +1,5 @@
+# Scans and papers stay local (size; some are under copyright). See SOURCES.md.
+*.pdf
+__pycache__/
+work/
+notes/extracted/
