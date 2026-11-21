@@ -20,7 +20,7 @@ suspects, as often as in the Eybeschütz amulets?
 
 ## Status (21-Nov-2026)
 
-- 21 sources are in `sources/` (14 primary, 7 secondary; see
+- 22 sources are in `sources/` (14 primary, 8 secondary; see
   [SOURCES.md](SOURCES.md)). PDFs are not in git (see `.gitignore`).
 - **Pilot done (draft):** the five notarized Metz amulets are transcribed in
   `corpus/metz_amulets.json`, and a first cipher test is done. See

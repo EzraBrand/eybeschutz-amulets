@@ -47,16 +47,26 @@ Already in another project: Emden, *Megillat Sefer* (Warsaw 1897, HB 37017), see
 | `margaliot_sibat-hitnagduto_1941_hb20851.pdf` | R. Margaliot, *Sibat Hitnagduto…* (Jerusalem 1941) | fair | Halakhic-dispute theory of the origin |
 | `oron_gahalei-esh_mehkerei-yerushalayim-16-17.pdf` | M. Oron, "ספר 'גחלי אש'", *Meḥkerei Yerushalayim* 16–17 (2001) | **broken** (legacy Hebrew font encoding) | Needs a font-map fix or OCR |
 | `leiman-schwarzfuchs_95_amulets-from-metz_REJ-2006.pdf` | Leiman & Schwarzfuchs, "New Evidence on the Emden-Eibeschuetz Controversy: The Amulets from Metz", *REJ* 165 (2006): 229–249 | good; extract in `notes/extracted/` | Plates: Pl. 4 = notarized sheet (PDF p. 20); 1752 fold-out (PDF p. 21). The pilot corpus. |
+| `greenwald_ha-rav-yehonatan-eybeschutz_1954_hb20792.pdf` | Y. Y. Greenwald, *Ha-Rav R. Yehonatan Eybeschütz* (New York 1954), HB 20792 | fair | 117 pp. Defence of Eybeschütz against the Sabbatean charge, with his life and the controversy. |
 
 ## Secondary — missing (in priority order)
 
 1. G. Scholem, "על קמיע אחד של ר' יהונתן אייבשיץ ופירושו עליו", *Tarbiz* 13.4 (1942): 226–244 — [JSTOR](https://www.jstor.org/stable/23585041). A close reading of one amulet and Eybeschütz's commentary.
 3. M. A. Perlmuter, *R. Yehonatan Eibeschütz ve-Yaḥaso el ha-Shabta'ut* (Jerusalem 1947). The fullest analysis. No online copy found yet.
-4. Y. Y. Greenwald, *Ha-Rav R. Yehonatan Eibeschütz* (New York 1954), defence — [HB 20792](https://www.hebrewbooks.org/20792).
 5. S. Z. Leiman, "'Iggeret Shelomim' le-R. Yeḥezkel Landau" (2011) — [PDF](https://leimanlibrary.com/texts_of_publications/120_Iggeret%20Shelomim.pdf).
 6. P. Maciejko (ed.), *Sabbatian Heresy* (2017), section "The Eibeschütz Controversy"; and his critical edition of *Va-Avo ha-Yom el ha-Ayin*.
 7. Summaries of lectures by Maoz Kahana and S. Z. Leiman, World Congress of Jewish Studies, Aug-2017 (Rachel Elior, [Facebook post](https://www.facebook.com/HebrwUJewishthought/posts/922836904536711/)). Facebook needs a login; copy the text by hand if it matters.
-8. Full list of Leiman's publications: <https://www.leimanlibrary.com/texts/>.
+8. Leiman papers on the controversy that are free on leimanlibrary.com and not yet here (the site allows copying with attribution). Numbers are the site's list numbers:
+   - 109. "When a Rabbi is Accused of Heresy: The Stance of R. Jacob Joshua Falk". **High priority:** Falk led the campaign and used the Metz amulets.
+   - 123. "Rabbi Ezekiel Landau: Letter of Reconciliation", *Tradition* 43:4 (2010); 124. "אגרת שלומים לרבי יחזקאל לנדא" (Hebrew)
+   - 85. "When a Rabbi is Accused of Heresy: The Stance of the Gaon of Vilna"
+   - 88. "Rabbi Jonathan Eibeschuetz's Attitude Towards the Frankists"
+   - 94. "Rabbi Jonathan Eibeschuetz and the Porger", *Judaic Studies* 4 (2004)
+   - 97. "הסכמות רבי יהונתן אייבשיץ ורבי יעקב עמדין"
+   - 71. "ספרים החשודים בשבתאות: רשימתו של הגאון יעב״ץ"
+   - 126. "Rabbi Jonathan Eibeschuetz and the Alleged Jewish-Christian Sect in Eighteenth Century Amsterdam"
+   - 140. "The Alleged Blindness of R. Jacob Joshua Falk" (Seforim Blog, 2019, web page)
+   - Full list: <https://www.leimanlibrary.com/texts/>
 
 ## Access notes
 
