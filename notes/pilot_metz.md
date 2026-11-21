@@ -46,51 +46,57 @@
   double substitution". It gives the worked example `בילב היי` → `שבתי צבי`.
   The script checks that example.
 
-## First cipher result
+## Cipher result (reading 2, from the notarized MS)
 
-The Metz amulets show one consistent key: **partial atbash**. Some letters
-are replaced by their atbash pair and the others are kept. The atbash pairs
-that occur are ב/ש, כ/ל, י/מ and ו/פ(ף).
+Reading 1 came from the low-resolution 1752 print plate, and it had errors of
+mine (for example `עבטחף` for MS `מבמחף`, and `בכתי` for MS `בבתי`). Reading 2
+follows the notarized manuscript (Pl. 4) at native resolution. Each amulet
+keeps reading 1 as `reading_1_print_lowres`, and doubtful letters are in
+`line_notes`.
 
-- `אכהי` = אלהי, 11 times; `יבראל`/`יבראך` = ישראל, 6 times. These are
-  ordinary amulet formulae.
-- **The same key** gives `מביחף`/`מבמחף`/`משמחף` = **משיחו** ("His
-  messiah"), 4 times.
-- It also gives **שבתי** twice, inside `קבבתיקא` (amulet 1, line 3) and
-  `בבתיק` (amulet 1, line 9).
+The Metz amulets use one consistent key, **partial atbash**: some letters are
+replaced by their atbash pair and the others are kept. The pairs that occur
+are ב/ש, כ/ל, י/מ and ו/פ(ף). Under this one key:
 
-The null model draws random letters with the letter frequencies of these
-texts, searching substrings inside words:
+- `אכהי` = אלהי (11×), `יבראל`/`יבראך`/`ישרתל` = ישראל (7×), `שך` = של.
+  These are ordinary amulet formulae.
+- `מביחף`/`מבמחף` = **משיחו**, "His messiah" (4×).
+- `בבתי` / `בבתמ` = **שבתי** (7×, in **all four** inner texts):
+  `קבבתיקא`, `בבתיק` (a1); `זבבתי` (a2); `בבתיל`, `בבתינ` (a3); `הבבתמל`,
+  `בבתמי` (a4). The seals add `בבתי` (seal 4) and `בבתמים` (seal 5).
+- **Adjacency.** In three of the four amulets, משיחו comes directly before a
+  שבתי string:
+  - a2 l. 3 `אכהם מבמחף זבבתי` → "אלהים משיחו [ז]שבתי"
+  - a4 l. 1–2 `אכהם מבמחף / הבבתמל` → "אלהים משיחו / השבתי…"
+  - a4 l. 7 `ומביחף בבתמי הבמי` → **"ומשיחו שבתי צבי"** (Liebes's example;
+    `הבמי` → צבי by ה/צ, מ/י)
+
+The null model draws random letters with the corpus letter frequencies, and
+searches substrings inside words:
 
 | target | expected by chance | observed |
 |---|---|---|
-| שבתי | 0.09 | 2 |
-| משיחו | 0.00 | 4 |
-| משיח | 0.06 | 4 |
-| צבי | 0.92 | 5 (`הביק`, `הבית`, `להבין`…) |
+| שבתי | 0.10 | **7** |
+| משיחו | 0.00 | **4** |
+| צבי | 0.93 | 6 (mostly ordinary words: `הביק`, `הבית`, `הבין`…) |
 | אלהי | 0.04 | 11 |
-| ישראל | 0.00 | 6 |
+| ישראל | 0.00 | 7 |
 
 **How to read this:**
-- The random-letter null is too weak. The amulets are clearly coded Hebrew
-  (אלהי ישראל), so any coherent Hebrew text beats it. So these numbers do
-  **not** yet show that the text is Sabbatean.
-- What they **do** show:
-  1. One simple, consistent key (partial atbash) turns the "Holy Names" into
-     a connected text. This supports Emden and Leiman against Eybeschütz's
-     "separate Names" defence, at least for amulets 1–4.
-  2. Under that one key, **משיחו** and **שבתי** come out without any extra
-     freedom. Emden's printed method ("atbash, albam, sometimes double") is
-     much looser. Under that looser letter-by-letter rule, a random four-letter
-     word becomes שבתי with p ≈ 0.007, which is about 0.5 expected hits per
-     corpus of this size.
-  3. **צבי** is not evidence: the hits are ordinary words.
-- **Variants that matter:** the MS reading `קבבתי` (print `קבכתי`) and
-  Eybeschütz's `בבהמים` (MS `בבתמים`) each turn on exactly the letter that
-  makes or breaks `בבת…` → `שבת…`. The other "בכתי" forms (amulet 2
-  `זבכתי`, amulet 4 `בכתמי`, seal 4 `בכתי`) give שבתי only if כ is read as ב,
-  which is the confusion that Eybeschütz himself blamed on the copyist. This
-  is a hypothesis to check. It is not established.
+1. One simple key turns the "separate Holy Names" into connected Hebrew. This
+   is evidence against Eybeschütz's defence for amulets 1–4.
+2. The incriminating words need **no extra freedom**. The key that gives the
+   harmless formula אלהי ישראל also gives משיחו and שבתי. The decoders' looser
+   printed rule ("atbash, albam, sometimes double") is not needed for the Metz
+   texts.
+3. The random-letter null is still too weak, because Hebrew has natural `בבת`
+   sequences (בבתי = "in my houses"). The real test is a control on real
+   Hebrew amulet text (see Next steps). The **adjacency** of משיחו + שבתי
+   (3 of 4 amulets) will be the hardest result to explain away.
+4. Variants: Leiman's MS `קבבתי` vs print `קבכתי` (a3 l. 3), and Eybeschütz's
+   own `בבהמים` vs MS `בבתמים` (seal 5). Each turns on the letter that makes or
+   breaks `בבת…` → `שבת…`. Eybeschütz's defence (that the copyist confused
+   ב/כ) points at exactly this letter.
 
 ## Next steps
 
